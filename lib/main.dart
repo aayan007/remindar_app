@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_clean_calendar/flutter_clean_calendar.dart';
 import 'local_notification_widget.dart';
 
+
+// Added a new line
 void main() {
   runApp(MaterialApp(
     title: 'ACEM Calendar',
